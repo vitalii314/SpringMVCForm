@@ -1,4 +1,4 @@
-To run the application using mvn spring-boot:run.
+To run the application use mvn spring-boot:run.
 then visit http://localhost:8080/greeting
 
 Or you can build the JAR file with mvn clean package and run the JAR by typing:
